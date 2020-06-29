@@ -1,0 +1,6 @@
+(variable a (i32 i32) (5 5))
+
+(signature add (i32 i32) i32)
+(procedure add (a b)
+    (+ a b))
+    
